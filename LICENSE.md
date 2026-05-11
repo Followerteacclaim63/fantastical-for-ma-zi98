@@ -1,4 +1,4 @@
-#  
+#  Fantastical for macOS instant Macro: calendar integration & task automation offers the most advanced Fantastical for macOS macro, with calendar integration and task automation.
 
 
 
